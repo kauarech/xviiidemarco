@@ -1,0 +1,236 @@
+[
+  {
+    "dia": "Sábado",
+    "hora": "15:00",
+    "modalidade": "Basquete Feminino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "16:00",
+    "modalidade": "Basquete Feminino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Segunda",
+    "hora": "20:00",
+    "modalidade": "Basquete Feminino",
+    "local": "CEEP"
+  },
+  {
+    "dia": "Quinta",
+    "hora": "22:00",
+    "modalidade": "Basquete Masculino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Quinta",
+    "hora": "23:00",
+    "modalidade": "Basquete Masculino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "11:00",
+    "modalidade": "Basquete Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "10:00",
+    "modalidade": "Basquete Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "16:00",
+    "modalidade": "Futebol de Campo",
+    "local": "Campo UTF"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "17:00",
+    "modalidade": "Futebol de Campo",
+    "local": "Campo UTF"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "18:00",
+    "modalidade": "Futebol de Campo",
+    "local": "Campo UTF"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "12:00",
+    "modalidade": "Futsal Feminino",
+    "local": "CEEP"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "11:00",
+    "modalidade": "Futsal Feminino",
+    "local": "CEEP"
+  },
+  {
+    "dia": "Quinta",
+    "hora": "22:00",
+    "modalidade": "Futsal Feminino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Quinta",
+    "hora": "23:00",
+    "modalidade": "Futsal Feminino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "15:00",
+    "modalidade": "Futsal Masculino",
+    "local": "Poli - Frente"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "16:00",
+    "modalidade": "Futsal Masculino",
+    "local": "Poli - Frente"
+  },
+  {
+    "dia": "Terça",
+    "hora": "20:00",
+    "modalidade": "Futsal Masculino",
+    "local": "SESC"
+  },
+  {
+    "dia": "Terça",
+    "hora": "21:00",
+    "modalidade": "Futsal Masculino",
+    "local": "SESC"
+  },
+  {
+    "dia": "Segunda",
+    "hora": "19:00",
+    "modalidade": "Handebol Feminino",
+    "local": "CEEP"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "20:00",
+    "modalidade": "Handebol Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "21:00",
+    "modalidade": "Handebol Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "22:00",
+    "modalidade": "Handebol Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Sexta",
+    "hora": "20:00",
+    "modalidade": "Handebol Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Sexta",
+    "hora": "21:00",
+    "modalidade": "Handebol Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Sexta",
+    "hora": "22:00",
+    "modalidade": "Handebol Masculino",
+    "local": "Poli - Trás"
+  },
+  {
+    "dia": "Segunda",
+    "hora": "21:00",
+    "modalidade": "Judô",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Segunda",
+    "hora": "22:00",
+    "modalidade": "Judô",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Quinta",
+    "hora": "19:00",
+    "modalidade": "Pigcesas",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Quinta",
+    "hora": "20:00",
+    "modalidade": "Pigcesas",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Segunda",
+    "hora": "19:00",
+    "modalidade": "Pigcesas",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Segunda",
+    "hora": "20:00",
+    "modalidade": "Pigcesas",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "20:00",
+    "modalidade": "Vôlei Feminino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "21:00",
+    "modalidade": "Vôlei Feminino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Terça",
+    "hora": "21:00",
+    "modalidade": "Vôlei Feminino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Terça",
+    "hora": "22:00",
+    "modalidade": "Vôlei Feminino",
+    "local": "Quadra UTF"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "09:00",
+    "modalidade": "Vôlei Masculino",
+    "local": "Poli - Frente"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "10:00",
+    "modalidade": "Vôlei Masculino",
+    "local": "Poli - Frente"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "22:00",
+    "modalidade": "Vôlei Masculino",
+    "local": "Poli - Frente"
+  },
+  {
+    "dia": "Quarta",
+    "hora": "23:00",
+    "modalidade": "Vôlei Masculino",
+    "local": "Poli - Frente"
+  }
+]
